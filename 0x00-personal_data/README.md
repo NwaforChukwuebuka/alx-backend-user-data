@@ -1,0 +1,7 @@
+- [Tasks](#tasks)
+    - [0. Regex-ing](#0-regex-ing)
+    - [1. Log Formatter](#1-log-formatter)
+    - [2. Create Logger](#2-create-logger)
+    - [3. Connect to Secure Database](#3-connect-to-secure-database)
+    - [4. Read and Filter Data](#4-read-and-filter-data)
+    - [5. Encrypting Passwords](#5-encrypting-passwords)
